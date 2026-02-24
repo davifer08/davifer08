@@ -1,4 +1,4 @@
-##- Nome: Davi Fernando Costa Nunes
+- Nome: Davi Fernando Costa Nunes
 - Curso: Ciência da Computação, CC1MA
 - Interesses na Área: programação e jogos
 - Objetivo Pessoal pro Semestre: continuar focado nos estudos para ter uma boa base
