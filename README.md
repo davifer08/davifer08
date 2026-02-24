@@ -1,4 +1,7 @@
-## Hi there 👋
+##- Nome: Davi Fernando Costa Nunes
+- Curso: Ciência da Computação, CC1MA
+- Interesses na Área: programação e jogos
+- Objetivo Pessoal pro Semestre: continuar focado nos estudos para ter uma boa base
 
 <!--
 **davifer08/davifer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
